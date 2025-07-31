@@ -1,5 +1,5 @@
 export interface ContentInput {
-  text?; string;
+  text: string;
   images?: string[];
   links?: string[];
 }
