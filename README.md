@@ -27,7 +27,7 @@ Combines **manual keyword checks** with **AI-powered moderation** using **OpenAI
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/heraclespath/blotato-content-moderation.git>
    cd blotato-content-moderation
    ```
 2. **Install dependences**
