@@ -1,6 +1,7 @@
 import express from "express";
 import cors from "cors";  // Import CORS
 import moderationRoutes from "./routes/moderationRoutes";
+import "dotenv/config";
 
 const app = express();
 
